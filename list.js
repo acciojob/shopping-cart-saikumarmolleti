@@ -20,7 +20,6 @@ const addData = () => {
   document.getElementById('myinputs').reset();
 }
 
-module.exports = addData;
+// module.exports = addData;
 
 // button.addEventListener('click', addData);
-
