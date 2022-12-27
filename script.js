@@ -43,3 +43,4 @@ addItem.addEventListener("click", (event) => {
   itemQuantity.value = "";
   itemPrice.value = "";
 });
+
